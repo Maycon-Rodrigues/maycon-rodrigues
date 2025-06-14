@@ -5,6 +5,6 @@ Starting to build on Web3 Blockchain.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [maycon.zng@gmail.com](mailto:maycon.zng@gmail.com)
-* 🚀  I'm currently working on [VTEX](http://vtex.com)
+* 🚀  I'm currently open to working
 * 🧠  I'm learning Web3 | Blockchain | Solidity | Rust
 * 🤝  I'm open to collaborating on Smart Contract
